@@ -1,9 +1,13 @@
 _repo: Lauluja-Anakreonilta-ynna-myos-Laulu-Sapfolta_49646
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ingman, Erik Aleksander
     gutenberg_agent_id: '45466'
     url: http://www.gutenberg.org/2009/agents/45466
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anacreon
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31959
     wikipedia: http://en.wikipedia.org/wiki/Anacreon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49646#Lauluja-Anakreonilta-ynna-myos-Laulu-Sapfolta
 gutenberg_issued: '2015-08-07'
 gutenberg_type: Text
 identifiers:
